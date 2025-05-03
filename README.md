@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Ken!
-![e1e19a997941864](https://github.com/user-attachments/assets/149a8714-7270-463b-b9a0-1f36563d864c)
+<img src="https://art.pixilart.com/e1e19a997941864.gif" width="250" height="250">
 
 ---
 
