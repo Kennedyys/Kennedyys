@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Ken!
-<img src="https://art.pixilart.com/e1e19a997941864.gif" width="250" height="250">
+<img src="https://art.pixilart.com/e1e19a997941864.gif" width="250" height="250" float="right">
 
 ---
 
