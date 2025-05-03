@@ -14,5 +14,9 @@
 📚 Learn more about backend development
 🚀 Launch a personal portfolio site
 
+---
+
 📫 Let's Connect
 📧 Email: jacintokenjeremiah@gmail.com
+
+---
