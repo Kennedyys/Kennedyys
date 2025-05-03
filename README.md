@@ -13,7 +13,6 @@
 ## 📌 Current Goals
 - 📚 Learn more about backend development  
 - 🚀 Launch a personal portfolio site
-- 🚿 C6 Neuvillette 
 
 ---
 
