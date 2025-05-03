@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Ken!
+![e1e19a997941864](https://github.com/user-attachments/assets/149a8714-7270-463b-b9a0-1f36563d864c)
 
-<!--
-**Kennedyys/Kennedyys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🎓 First-year **BSIT** student at **Pamantasan ng Lungsod ng Maynila**
+- 💻 Volunteer for **Google Developers Student Club PLM**
+- 💡 Passionate about exploring tech tools and gaming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📌 Current Goals
+📚 Learn more about backend development
+🚀 Launch a personal portfolio site
+
+📫 Let's Connect
+📧 Email: jacintokenjeremiah@gmail.com
