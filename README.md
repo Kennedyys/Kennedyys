@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 - 🎓 **BSIT** student at **Pamantasan ng Lungsod ng Maynila**
-- 💻 Volunteer for **Google Developer Student Club PLM**
+- 💻 Volunteer for **Google Developer Student Clubs PLM**
 - 💡 Passionate about exploring tech tools and gaming
 
 ---
